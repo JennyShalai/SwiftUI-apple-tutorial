@@ -72,7 +72,6 @@
 				BAD9C2DD292D871100165FC7 /* Resources */,
 				BA86BE0F292A998F0050BA59 /* Assets.xcassets */,
 				BA86BE0B292A997E0050BA59 /* LandmarksApp.swift */,
-				BAD9C2E029312C3600165FC7 /* LandmarkList.swift */,
 				BA86BE11292A998F0050BA59 /* Preview Content */,
 			);
 			path = Landmarks;
@@ -103,6 +102,7 @@
 				BA86BE0D292A997E0050BA59 /* ContentView.swift */,
 				BA86BE19292AA6AB0050BA59 /* CircleImage.swift */,
 				BAD9C2DE292D9BA300165FC7 /* LandmarkRow.swift */,
+				BAD9C2E029312C3600165FC7 /* LandmarkList.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
